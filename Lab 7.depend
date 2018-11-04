@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541299406 source:e:\lab 7\main.cpp
+	<iostream>
+	"arrayPrototype.h"
+
+1541299406 e:\lab 7\arrayprototype.h
+
+1541300624 source:e:\lab 7\arraydef.cpp
+	<iostream>
+	"arrayprototype.h"
+	<fstream>
+
